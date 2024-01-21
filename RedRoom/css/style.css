@@ -1,0 +1,82 @@
+body {
+    background-color: black;
+    color: white; /* Change la couleur du texte pour assurer une meilleure lisibilité */
+    /* Vous pouvez également spécifier d'autres propriétés de style pour le corps ici */
+    text-align: center;
+    
+}
+
+
+h1 {
+    color: rgb(249, 249, 249);
+    text-align: center;
+    font-size: 60px;
+    margin-top: 20px;
+    margin-bottom: 0px;
+}
+
+h2 {
+    color: rgb(249, 249, 249);
+    text-align: center;
+    font-size: 40px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    font-family: 'Nosifer', cursive;
+}
+
+h3 {
+    color: rgb(255, 0, 0);
+    text-align: center;
+    font-size: 25px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+h4 {
+    color: rgb(255, 0, 0);
+    text-align: center;
+    font-size: 28px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    font-family: 'Nosifer', cursive;
+}
+
+
+
+img {
+    
+    width: 700px; /* Spécifiez la largeur souhaitée */
+    height: auto; /* La hauteur s'ajuste automatiquement pour conserver les proportions originales */
+    border: 0px solid #ccc; /* Ajouter une bordure pour illustrer l'image */
+}
+
+audio {
+    display: none;
+}
+
+div {
+    color: rgb(184, 183, 183);
+    text-align: center;
+    font-size: 20px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    font-family: 'Nosifer', cursive;
+}
+
+div1 {
+    color: rgb(255, 0, 0);
+    text-align: center;
+    font-size: 20px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+
+}
+
+div3 {
+    color: rgb(255, 255, 255);
+    text-align: center;
+    font-size: 20px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+
+}
